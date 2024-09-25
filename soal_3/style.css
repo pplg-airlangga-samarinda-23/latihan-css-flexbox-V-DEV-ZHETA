@@ -1,0 +1,13 @@
+li{background-color: cornflowerblue;
+    color: aliceblue;
+    text-decoration: none;
+    border: 2px solid rgb(13, 89, 151);border-radius: 3px;
+        width: max-content;
+        padding: 10px;
+        margin: 3px;
+        text-align: center   ;
+    }
+div{display: flex;
+    justify-content: flex-start;
+    align-content: center;}
+ul{width: max-content;}
